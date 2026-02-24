@@ -1,6 +1,6 @@
 # Jogo de Heróis em JavaScript 🦸‍♂️
 
-Este projeto é uma aplicação simples em **JavaScript** que simula heróis atacando com habilidades específicas de acordo com seu tipo. É um ótimo projeto para você treinar **classes, métodos, estruturas de decisão e loops**.
+Este projeto é uma aplicação simples em **JavaScript** que simula heróis atacando com habilidades específicas de acordo com seu tipo. É um ótimo projeto para se treinar **classes, métodos, estruturas de decisão e loops**.
 ## ⚡ Funcionalidades
 
 - Criação de heróis com propriedades:
